@@ -1,0 +1,6 @@
+{
+  "name": "KasRT Harmoni",
+  "description": "Sistem Manajemen Keuangan dan Administrasi RT/RW Modern Serverless & Real-Time untuk GitHub Pages dan Firebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
